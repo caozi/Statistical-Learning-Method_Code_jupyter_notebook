@@ -1,2 +1,3 @@
-# Statistical-Learning-Method_Code_jupyter_notebook
- Dod-o / Statistical-Learning-Method_Code 的jupyter notebook版本
+# Statistical-Learning-Method_Code的jupyter_notebook版本
+ 原版本：https://github.com/Dod-o/Statistical-Learning-Method_Code
+ 
